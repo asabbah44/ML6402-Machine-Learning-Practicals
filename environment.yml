@@ -1,0 +1,14 @@
+name: ml6402
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.12
+  - numpy
+  - pandas
+  - matplotlib
+  - scikit-learn
+  - jupyter
+  - notebook
+  - ipykernel
+  - pip
