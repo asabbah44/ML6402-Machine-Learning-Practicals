@@ -154,3 +154,38 @@ The following topics require additional packages:
 - **CNN / RNN / LSTM:** `tensorflow`
 
 Both are included in `requirements.txt` and `environment.yml`.
+
+
+---
+
+## Supplementary PyTorch practical
+
+An additional practical is available in:
+
+```text
+Supplementary_PyTorch_ANN_CNN_RNN/
+```
+
+This is **additional knowledge**, not a replacement for the course's TensorFlow/Keras deep-learning practicals.
+
+It introduces the main PyTorch workflow and includes simple examples of:
+
+- ANN;
+- CNN;
+- RNN;
+- tensors and automatic differentiation;
+- Dataset/DataLoader;
+- CPU/GPU device handling;
+- `nn.Module`;
+- loss functions and optimizers;
+- manual training and evaluation loops;
+- saving and loading model weights.
+
+The examples use built-in or generated datasets, so they do not depend on external dataset paths.
+
+PyTorch packages used:
+
+```text
+torch
+torchvision
+```
