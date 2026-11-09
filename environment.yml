@@ -15,3 +15,5 @@ dependencies:
   - pip:
       - mlxtend
       - tensorflow
+      - torch
+      - torchvision
