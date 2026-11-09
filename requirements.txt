@@ -5,3 +5,5 @@ scikit-learn
 jupyter
 notebook
 ipykernel
+mlxtend
+tensorflow
