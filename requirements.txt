@@ -7,3 +7,5 @@ notebook
 ipykernel
 mlxtend
 tensorflow
+torch
+torchvision
